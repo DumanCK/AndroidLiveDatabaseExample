@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044522964636",
+    "project_id": "live-database-efc5e",
+    "storage_bucket": "live-database-efc5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044522964636:android:450ade247f1741104bff59",
+        "android_client_info": {
+          "package_name": "com.duman.livedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQft43M-fRssR6Pupj37fE-zipn9DrMoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

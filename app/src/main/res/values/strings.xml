@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Live Database</string>
+    <string name="confirm_password">Ulangi Password</string>
+    <string name="signed">Daftarkan Saya</string>
+    <string name="already_have_an_account_login">Punya Akun? Login di sini</string>
+    <string name="password">Masukkan Password</string>
+    <string name="email">Masukkan E-mail</string>
+    <string name="log_masuk">Login</string>
+    <string name="have_no_account_daftar">Belum ada akun, Daftar</string>
+    <string name="inputnama">Inputkan Nama</string>
+    <string name="inputstatus">Inputkan Status</string>
+    <string name="simpan">Simpan di DB</string>
+    <string name="updatedb">Update DB</string>
+</resources>
